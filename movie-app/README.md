@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-### Proje Demo: [zafer-aslan-movieapp.netlify.app](zafer-aslan-movieapp.netlify.app)
+### Proje Demo: [http://zafer-aslan-movieapp.netlify.app](http://zafer-aslan-movieapp.netlify.app)
 ## Available Scripts
 
 In the project directory, you can run:
